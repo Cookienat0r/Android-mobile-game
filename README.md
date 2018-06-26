@@ -1,6 +1,8 @@
 # Android-mobile-game
-Mobile dev project
+"Somewhere in Antarctica" -- Mobile development project
+
 <br>
-Tools: Lua, Corona SDK
-<br>
-school final project for mobile development class 
+ Tools: Lua, Corona SDK
+
+
+
